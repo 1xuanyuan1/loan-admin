@@ -1,2 +1,1 @@
 webpackJsonp([1],{"3bYE":function(t,e,n){"use strict";e.a={name:"home",data:function(){return{}}}},XWo5:function(t,e,n){"use strict";var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"container"},[n("card",{attrs:{title:"首页"}})],1)},r=[],s={render:a,staticRenderFns:r};e.a=s},esL9:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a=n("3bYE"),r=n("XWo5"),s=n("VU/8"),c=s(a.a,r.a,null,null,null);e.default=c.exports}});
-//# sourceMappingURL=1.cbf9d7fe2e5f355efc97.js.map
